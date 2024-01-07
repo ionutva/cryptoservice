@@ -7,6 +7,8 @@ The application uses Java 17
 
 The applications is a Spring Boot application that I've built with IntelliJ IDEA based on Spring Initializr
 
+run git clone https://github.com/ionutva/cryptoservice.git and get it from here
+
 I have added Sring Web package
 
 The project can be run from IntelliJ IDEA by running right click on CryptoserviceApplication and select run or
